@@ -91,11 +91,12 @@
 #   return total
 # add_nums(13, 5)
 
-myNumbers = (1, 3, 5)
+# myNumbers = (1, 3, 5)
 
-def printGlobalScope():
-  print("This is a list:", myNumbers)
-printGlobalScope()
+# def printGlobalScope():
+#   print("This is a list:", myNumbers)
+# printGlobalScope()
+
 
 
 
